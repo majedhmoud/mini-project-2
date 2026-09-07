@@ -1,0 +1,20 @@
+[
+  { "id": 1, "title": "The Long Descent", "genre": "Thriller", "director": "Mara Costin", "watched": true },
+  { "id": 2, "title": "Skybound", "genre": "Sci-Fi", "director": "Devon Achebe", "watched": true },
+  { "id": 3, "title": "Paper Lanterns", "genre": "Drama", "director": "Yuki Tanaka", "watched": false },
+  { "id": 4, "title": "Nine Red Doors", "genre": "Thriller", "director": "Mara Costin", "watched": false },
+  { "id": 5, "title": "The Last Orchard", "genre": "Drama", "director": "Elena Voss", "watched": true },
+  { "id": 6, "title": "Static Bloom", "genre": "Sci-Fi", "director": "Priya Nair", "watched": false },
+  { "id": 7, "title": "Two Left Shoes", "genre": "Comedy", "director": "Marcus Odell", "watched": true },
+  { "id": 8, "title": "The Quiet Hour", "genre": "Drama", "director": "Yuki Tanaka", "watched": false },
+  { "id": 9, "title": "Borrowed Light", "genre": "Sci-Fi", "director": "Devon Achebe", "watched": false },
+  { "id": 10, "title": "Loose Change", "genre": "Comedy", "director": "Marcus Odell", "watched": false },
+  { "id": 11, "title": "The Signal Runs", "genre": "Thriller", "director": "Priya Nair", "watched": true },
+  { "id": 12, "title": "Second Harvest", "genre": "Drama", "director": "Elena Voss", "watched": true },
+  { "id": 13, "title": "Neon Static", "genre": "Sci-Fi", "director": "Priya Nair", "watched": true },
+  { "id": 14, "title": "The Understudy", "genre": "Comedy", "director": "Aisha Bello", "watched": false },
+  { "id": 15, "title": "Cold Front", "genre": "Thriller", "director": "Mara Costin", "watched": false },
+  { "id": 16, "title": "The Wrong Platform", "genre": "Comedy", "director": "Aisha Bello", "watched": true },
+  { "id": 17, "title": "Salt and Distance", "genre": "Drama", "director": "Elena Voss", "watched": false },
+  { "id": 18, "title": "Zero Hour Garden", "genre": "Sci-Fi", "director": "Devon Achebe", "watched": false }
+]
