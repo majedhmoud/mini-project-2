@@ -1,15 +1,6 @@
 # Movie Watchlist
 
-A dark-mode movie watchlist built with React, TypeScript, and Vite for the Session 10 mini project. It uses React state and the `map`, `filter`, and `reduce` array methods to manage movies and calculate statistics.
-
-## Features
-
-- Browse movies with their title, genre, director, and watched status.
-- Add movies, edit titles, delete movies, and toggle watched status.
-- Search by title and combine genre and watched/unwatched filters.
-- View total, watched, and unwatched movie counts.
-- See watched progress on each genre button: `Action - (3/5)` means 3 watched out of 5 Action movies.
-- Use a responsive dark interface with a compact edit form.
+A dark-mode movie watchlist built with React, TypeScript, and Vite for the Session 10 mini project.
 
 ## Requirements
 
